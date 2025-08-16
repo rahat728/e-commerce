@@ -7,11 +7,11 @@ import PlaceOrder from './pages/PlaceOrder'
 import NavBar from './components/NavBar'
 import Home from './pages/Home'
 import Cart from './pages/Cart' 
-import Login from './pages/login'
+import Login from './pages/Login'
 import Footer from './components/Footer'
 import SearchBar from './components/SearchBar'
 import Product from './pages/Product'
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Contact from './pages/Contact'
 import Verify from './pages/Verify'
